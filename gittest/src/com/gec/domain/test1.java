@@ -4,4 +4,6 @@ public interface test1 {
   
 	void oneUser();
 	
+	void twoUser();
+	
 }
